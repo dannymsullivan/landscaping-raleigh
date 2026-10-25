@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-24T14:09:47.807Z",
+  "lastUpdated": "2026-10-25T14:39:34.013Z",
   "property": "https://www.landscapingraleigh.com/",
-  "window": "2026-09-24 to 2026-10-21",
-  "comparisonWindow": "2026-08-27 to 2026-09-23",
+  "window": "2026-09-25 to 2026-10-22",
+  "comparisonWindow": "2026-08-28 to 2026-09-24",
   "rows": [
     {
       "keyword": "growing zone raleigh nc",
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 0.16666666666666666,
-      "position": 5.166666666666667,
-      "previousPosition": 7,
-      "positionChange": 1.833333333333333
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4.2,
+      "previousPosition": 7.75,
+      "positionChange": 3.55
     },
     {
       "keyword": "what is this company called",
@@ -43,11 +43,11 @@
     {
       "keyword": "27616",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 3.6666666666666665,
-      "previousPosition": null,
-      "positionChange": null
+      "position": 3,
+      "previousPosition": 5,
+      "positionChange": 2
     },
     {
       "keyword": "8a",
@@ -61,11 +61,11 @@
     {
       "keyword": "8a hardiness zone",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 9,
-      "previousPosition": 5,
-      "positionChange": -4
+      "position": 8,
+      "previousPosition": 7.5,
+      "positionChange": -0.5
     },
     {
       "keyword": "art garden design",
@@ -79,11 +79,11 @@
     {
       "keyword": "art landscape",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 5,
       "ctr": 0,
-      "position": 5.25,
+      "position": 4.4,
       "previousPosition": 1,
-      "positionChange": -4.25
+      "positionChange": -3.4000000000000004
     },
     {
       "keyword": "art landscapes",
@@ -93,6 +93,15 @@
       "position": 3,
       "previousPosition": 7,
       "positionChange": 4
+    },
+    {
+      "keyword": "art of landscape",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5,
+      "previousPosition": null,
+      "positionChange": null
     },
     {
       "keyword": "art of landscaping",
@@ -142,11 +151,11 @@
     {
       "keyword": "artworks landscaping cary nc",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 16.307692307692307,
-      "previousPosition": 17.42105263157895,
-      "positionChange": 1.113360323886642
+      "position": 16.57142857142857,
+      "previousPosition": 17.333333333333332,
+      "positionChange": 0.7619047619047628
     },
     {
       "keyword": "backyard landscape design raleigh",
@@ -172,8 +181,8 @@
       "impressions": 1,
       "ctr": 0,
       "position": 16,
-      "previousPosition": 13.5,
-      "positionChange": -2.5
+      "previousPosition": 15,
+      "positionChange": -1
     },
     {
       "keyword": "compare the best sod installation companies in raleigh nc for quality, preparation, grass selection and customer reviews. raleigh",
@@ -187,38 +196,38 @@
     {
       "keyword": "comprehensive landscape lighting solutions in raleigh, nc",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 29.235294117647058,
-      "previousPosition": 28.76,
-      "positionChange": -0.4752941176470564
+      "position": 28.666666666666668,
+      "previousPosition": 28.64,
+      "positionChange": -0.026666666666667282
     },
     {
       "keyword": "cost of sod raleigh nc",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 24,
       "ctr": 0,
-      "position": 8,
+      "position": 7.916666666666667,
       "previousPosition": 8.714285714285715,
-      "positionChange": 0.7142857142857153
+      "positionChange": 0.7976190476190483
     },
     {
       "keyword": "cost of zoysia sod raleigh nc",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 12,
       "ctr": 0,
       "position": 9,
-      "previousPosition": 10.8,
-      "positionChange": 1.8000000000000007
+      "previousPosition": 10.636363636363637,
+      "positionChange": 1.6363636363636367
     },
     {
       "keyword": "custom design hardscape raleigh nc",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 27.38888888888889,
-      "previousPosition": 47.36842105263158,
-      "positionChange": 19.979532163742693
+      "position": 27.526315789473685,
+      "previousPosition": 47.333333333333336,
+      "positionChange": 19.80701754385965
     },
     {
       "keyword": "custom design landscape raleigh nc",
@@ -241,20 +250,20 @@
     {
       "keyword": "custom patio installation north carolina museum of natural sciences",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 8,
       "ctr": 0,
-      "position": 57.57142857142857,
+      "position": 56.625,
       "previousPosition": 82,
-      "positionChange": 24.42857142857143
+      "positionChange": 25.375
     },
     {
       "keyword": "custom paver patio services north carolina museum of natural sciences",
       "clicks": 0,
-      "impressions": 9,
+      "impressions": 10,
       "ctr": 0,
-      "position": 59,
+      "position": 58.9,
       "previousPosition": 52.57142857142857,
-      "positionChange": -6.428571428571431
+      "positionChange": -6.328571428571429
     },
     {
       "keyword": "drainage and grading contractor raleigh",
@@ -331,18 +340,18 @@
     {
       "keyword": "francis landscaping raleigh",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 43.1764705882353,
+      "position": 43.388888888888886,
       "previousPosition": 34.2,
-      "positionChange": -8.976470588235294
+      "positionChange": -9.188888888888883
     },
     {
       "keyword": "francis landscaping raleigh nc",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 42.53333333333333,
+      "position": 42.5625,
       "previousPosition": null,
       "positionChange": null
     },
@@ -412,11 +421,11 @@
     {
       "keyword": "garden landscaping",
       "clicks": 0,
-      "impressions": 28,
+      "impressions": 30,
       "ctr": 0,
-      "position": 4.5,
-      "previousPosition": 4.5,
-      "positionChange": 0
+      "position": 4.433333333333334,
+      "previousPosition": 4.333333333333334,
+      "positionChange": -0.09999999999999964
     },
     {
       "keyword": "garden maintenance",
@@ -473,6 +482,15 @@
       "positionChange": null
     },
     {
+      "keyword": "gardenart landscaping",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22,
+      "previousPosition": null,
+      "positionChange": null
+    },
+    {
       "keyword": "gardening on sunday painting",
       "clicks": 0,
       "impressions": 1,
@@ -514,8 +532,8 @@
       "impressions": 16,
       "ctr": 0,
       "position": 35,
-      "previousPosition": 39.25,
-      "positionChange": 4.25
+      "previousPosition": 39.18181818181818,
+      "positionChange": 4.18181818181818
     },
     {
       "keyword": "hard scaping",
@@ -550,8 +568,8 @@
       "impressions": 16,
       "ctr": 0,
       "position": 34.5,
-      "previousPosition": 42.68421052631579,
-      "positionChange": 8.184210526315788
+      "previousPosition": 42.294117647058826,
+      "positionChange": 7.794117647058826
     },
     {
       "keyword": "hardscape construction raleigh, nc",
@@ -559,8 +577,8 @@
       "impressions": 6,
       "ctr": 0,
       "position": 27.5,
-      "previousPosition": 27,
-      "positionChange": -0.5
+      "previousPosition": 27.5,
+      "positionChange": 0
     },
     {
       "keyword": "hardscape contractors raleigh",
@@ -568,17 +586,17 @@
       "impressions": 10,
       "ctr": 0,
       "position": 14,
-      "previousPosition": 27.25,
-      "positionChange": 13.25
+      "previousPosition": 27.142857142857142,
+      "positionChange": 13.142857142857142
     },
     {
       "keyword": "hardscape design raleigh nc",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 30,
+      "position": 29.9375,
       "previousPosition": 29.88235294117647,
-      "positionChange": -0.117647058823529
+      "positionChange": -0.055147058823528994
     },
     {
       "keyword": "hardscape raleigh",
@@ -592,38 +610,38 @@
     {
       "keyword": "hardscape raleigh nc",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 32.53333333333333,
-      "previousPosition": 36.470588235294116,
-      "positionChange": 3.9372549019607845
+      "position": 32.4375,
+      "previousPosition": 35.86666666666667,
+      "positionChange": 3.429166666666667
     },
     {
       "keyword": "hardscapes raleigh",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 36.5,
-      "previousPosition": 36.36842105263158,
-      "positionChange": -0.1315789473684177
+      "position": 36.35294117647059,
+      "previousPosition": 36.166666666666664,
+      "positionChange": -0.18627450980392268
     },
     {
       "keyword": "hardscapes raleigh nc",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 23,
       "ctr": 0,
-      "position": 34,
-      "previousPosition": 34.82051282051282,
-      "positionChange": 0.8205128205128176
+      "position": 34.26086956521739,
+      "previousPosition": 34.35897435897436,
+      "positionChange": 0.09810479375696701
     },
     {
       "keyword": "hardscaping",
       "clicks": 0,
-      "impressions": 119,
+      "impressions": 117,
       "ctr": 0,
-      "position": 23.016806722689076,
-      "previousPosition": 14.292682926829269,
-      "positionChange": -8.724123795859807
+      "position": 22.957264957264957,
+      "previousPosition": 14.622222222222222,
+      "positionChange": -8.335042735042736
     },
     {
       "keyword": "hardscaping company raleigh, nc",
@@ -666,18 +684,18 @@
       "clicks": 0,
       "impressions": 43,
       "ctr": 0,
-      "position": 24.302325581395348,
-      "previousPosition": 24.764705882352942,
-      "positionChange": 0.4623803009575944
+      "position": 24.372093023255815,
+      "previousPosition": 24.62,
+      "positionChange": 0.24790697674418638
     },
     {
       "keyword": "hardscaping raleigh nc",
       "clicks": 0,
-      "impressions": 50,
+      "impressions": 52,
       "ctr": 0,
-      "position": 25.04,
-      "previousPosition": 24.877551020408163,
-      "positionChange": -0.16244897959183646
+      "position": 25.115384615384617,
+      "previousPosition": 24.72340425531915,
+      "positionChange": -0.39198036006546744
     },
     {
       "keyword": "hardscaping raleigh, nc",
@@ -685,8 +703,8 @@
       "impressions": 6,
       "ctr": 0,
       "position": 26.666666666666668,
-      "previousPosition": 28.5,
-      "positionChange": 1.8333333333333321
+      "previousPosition": 28,
+      "positionChange": 1.3333333333333321
     },
     {
       "keyword": "hardscaping service raleigh, nc",
@@ -718,11 +736,11 @@
     {
       "keyword": "high end hardscape raleigh nc",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 38.44444444444444,
-      "previousPosition": 42.92857142857143,
-      "positionChange": 4.484126984126988
+      "position": 38.31578947368421,
+      "previousPosition": 42.92307692307692,
+      "positionChange": 4.607287449392707
     },
     {
       "keyword": "high end landscape raleigh nc",
@@ -754,18 +772,9 @@
     {
       "keyword": "how much does professional sod installation cost in raleigh nc? raleigh",
       "clicks": 0,
-      "impressions": 37,
+      "impressions": 40,
       "ctr": 0,
-      "position": 7.162162162162162,
-      "previousPosition": null,
-      "positionChange": null
-    },
-    {
-      "keyword": "how much is bermuda",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 14,
+      "position": 6.9,
       "previousPosition": null,
       "positionChange": null
     },
@@ -799,11 +808,11 @@
     {
       "keyword": "integrated landscapes raleigh",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 37.30769230769231,
-      "previousPosition": 16,
-      "positionChange": -21.307692307692307
+      "position": 36.857142857142854,
+      "previousPosition": null,
+      "positionChange": null
     },
     {
       "keyword": "interior landscapes raleigh",
@@ -844,27 +853,27 @@
     {
       "keyword": "landscape architect raleigh",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 18,
       "ctr": 0,
-      "position": 44.4375,
+      "position": 43.94444444444444,
       "previousPosition": null,
       "positionChange": null
     },
     {
       "keyword": "landscape architect raleigh nc",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 57.3125,
+      "position": 57.1764705882353,
       "previousPosition": null,
       "positionChange": null
     },
     {
       "keyword": "landscape architects raleigh nc",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 48.75,
+      "position": 48.529411764705884,
       "previousPosition": null,
       "positionChange": null
     },
@@ -880,9 +889,9 @@
     {
       "keyword": "landscape architecture raleigh",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 62,
+      "position": 62.333333333333336,
       "previousPosition": null,
       "positionChange": null
     },
@@ -898,11 +907,11 @@
     {
       "keyword": "landscape art",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 9,
-      "previousPosition": 6,
-      "positionChange": -3
+      "position": 7.75,
+      "previousPosition": 8.666666666666668,
+      "positionChange": 0.9166666666666679
     },
     {
       "keyword": "landscape bed care",
@@ -979,29 +988,29 @@
     {
       "keyword": "landscape design north raleigh",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 10,
       "ctr": 0,
-      "position": 30.923076923076923,
-      "previousPosition": 20,
-      "positionChange": -10.923076923076923
+      "position": 25.9,
+      "previousPosition": 26.307692307692307,
+      "positionChange": 0.407692307692308
     },
     {
       "keyword": "landscape design raleigh",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 40,
       "ctr": 0,
-      "position": 23.473684210526315,
+      "position": 23.525,
       "previousPosition": 15,
-      "positionChange": -8.473684210526315
+      "positionChange": -8.524999999999999
     },
     {
       "keyword": "landscape design raleigh nc",
       "clicks": 0,
-      "impressions": 97,
+      "impressions": 104,
       "ctr": 0,
-      "position": 20.15463917525773,
+      "position": 20.076923076923077,
       "previousPosition": 21.333333333333332,
-      "positionChange": 1.1786941580756007
+      "positionChange": 1.2564102564102555
     },
     {
       "keyword": "landscape design raleigh, nc",
@@ -1069,20 +1078,20 @@
     {
       "keyword": "landscape designer raleigh",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 28,
       "ctr": 0,
-      "position": 29.333333333333332,
+      "position": 28.071428571428573,
       "previousPosition": 38.13333333333333,
-      "positionChange": 8.8
+      "positionChange": 10.06190476190476
     },
     {
       "keyword": "landscape designer raleigh nc",
       "clicks": 0,
-      "impressions": 25,
+      "impressions": 26,
       "ctr": 0,
-      "position": 30.52,
+      "position": 30.576923076923077,
       "previousPosition": 35,
-      "positionChange": 4.48
+      "positionChange": 4.423076923076923
     },
     {
       "keyword": "landscape designer raleigh, nc",
@@ -1096,18 +1105,18 @@
     {
       "keyword": "landscape designers in raleigh nc",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 28.53846153846154,
-      "previousPosition": 30.166666666666668,
-      "positionChange": 1.6282051282051277
+      "position": 28.357142857142858,
+      "previousPosition": 30.2,
+      "positionChange": 1.8428571428571416
     },
     {
       "keyword": "landscape designers raleigh nc",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 24,
       "ctr": 0,
-      "position": 32,
+      "position": 31.958333333333332,
       "previousPosition": null,
       "positionChange": null
     },
@@ -1168,29 +1177,29 @@
     {
       "keyword": "landscape lighting company downtown raleigh",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 40.6875,
-      "previousPosition": 59.388888888888886,
-      "positionChange": 18.701388888888886
+      "position": 40.8235294117647,
+      "previousPosition": 59.411764705882355,
+      "positionChange": 18.588235294117652
     },
     {
       "keyword": "landscape lighting company marbles kids museum",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 52.1764705882353,
-      "previousPosition": 59.32,
-      "positionChange": 7.143529411764703
+      "position": 51.888888888888886,
+      "previousPosition": 59,
+      "positionChange": 7.111111111111114
     },
     {
       "keyword": "landscape lighting company mordecai historic park",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 18,
       "ctr": 0,
-      "position": 30.57894736842105,
-      "previousPosition": 40.25,
-      "positionChange": 9.671052631578949
+      "position": 30.555555555555557,
+      "previousPosition": 40.67857142857143,
+      "positionChange": 10.123015873015873
     },
     {
       "keyword": "landscape lighting company north carolina museum of natural sciences",
@@ -1198,17 +1207,17 @@
       "impressions": 11,
       "ctr": 0,
       "position": 45.72727272727273,
-      "previousPosition": 53.05,
-      "positionChange": 7.3227272727272705
+      "previousPosition": 54.31578947368421,
+      "positionChange": 8.588516746411486
     },
     {
       "keyword": "landscape lighting company pope house museum",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 24.470588235294116,
-      "previousPosition": 38.32,
-      "positionChange": 13.849411764705884
+      "position": 24.666666666666668,
+      "previousPosition": 38.458333333333336,
+      "positionChange": 13.791666666666668
     },
     {
       "keyword": "landscape lighting company pullen park",
@@ -1249,11 +1258,11 @@
     {
       "keyword": "landscape lighting company whole brain escape",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 15,
       "ctr": 0,
-      "position": 40.714285714285715,
-      "previousPosition": 44.92857142857143,
-      "positionChange": 4.214285714285715
+      "position": 39.06666666666667,
+      "previousPosition": 45.708333333333336,
+      "positionChange": 6.641666666666666
     },
     {
       "keyword": "landscape lighting contractor clayton community park",
@@ -1261,17 +1270,17 @@
       "impressions": 19,
       "ctr": 0,
       "position": 27.05263157894737,
-      "previousPosition": 31.166666666666668,
-      "positionChange": 4.114035087719298
+      "previousPosition": 31.2,
+      "positionChange": 4.147368421052629
     },
     {
       "keyword": "landscape lighting contractor downtown raleigh",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 32.66666666666667,
-      "previousPosition": 53.42307692307692,
-      "positionChange": 20.75641025641025
+      "position": 32.625,
+      "previousPosition": 53.12,
+      "positionChange": 20.494999999999997
     },
     {
       "keyword": "landscape lighting contractor in raleigh nc",
@@ -1285,9 +1294,9 @@
     {
       "keyword": "landscape lighting contractor in raleigh, nc",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 15,
       "ctr": 0,
-      "position": 34.142857142857146,
+      "position": 34.06666666666667,
       "previousPosition": null,
       "positionChange": null
     },
@@ -1297,26 +1306,26 @@
       "impressions": 21,
       "ctr": 0,
       "position": 42.666666666666664,
-      "previousPosition": 53.17391304347826,
-      "positionChange": 10.507246376811594
+      "previousPosition": 53.04545454545455,
+      "positionChange": 10.378787878787882
     },
     {
       "keyword": "landscape lighting contractor marbles kids museum",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 26.5,
-      "previousPosition": 26.53846153846154,
-      "positionChange": 0.0384615384615401
+      "position": 25.210526315789473,
+      "previousPosition": 27.5,
+      "positionChange": 2.2894736842105274
     },
     {
       "keyword": "landscape lighting contractor mordecai historic park",
       "clicks": 0,
       "impressions": 17,
       "ctr": 0,
-      "position": 26.352941176470587,
-      "previousPosition": 24.11764705882353,
-      "positionChange": -2.235294117647058
+      "position": 27.764705882352942,
+      "previousPosition": 23.264705882352942,
+      "positionChange": -4.5
     },
     {
       "keyword": "landscape lighting contractor north carolina museum of natural sciences",
@@ -1324,35 +1333,35 @@
       "impressions": 16,
       "ctr": 0,
       "position": 26.125,
-      "previousPosition": 39.125,
-      "positionChange": 13
+      "previousPosition": 39.36363636363637,
+      "positionChange": 13.238636363636367
     },
     {
       "keyword": "landscape lighting contractor pope house museum",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 24,
       "ctr": 0,
       "position": 21,
-      "previousPosition": 21.633333333333333,
-      "positionChange": 0.6333333333333329
+      "previousPosition": 21.466666666666665,
+      "positionChange": 0.466666666666665
     },
     {
       "keyword": "landscape lighting contractor pullen park",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 26.529411764705884,
-      "previousPosition": 32.51851851851852,
-      "positionChange": 5.989106753812635
+      "position": 26.5,
+      "previousPosition": 32.04,
+      "positionChange": 5.539999999999999
     },
     {
       "keyword": "landscape lighting contractor stillwaters farm",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 18,
       "ctr": 0,
-      "position": 13.6875,
-      "previousPosition": 12.68,
-      "positionChange": -1.0075000000000003
+      "position": 13.88888888888889,
+      "previousPosition": 12.961538461538462,
+      "positionChange": -0.9273504273504276
     },
     {
       "keyword": "landscape lighting contractor whole brain escape",
@@ -1360,8 +1369,8 @@
       "impressions": 28,
       "ctr": 0,
       "position": 10.464285714285714,
-      "previousPosition": 12.294117647058824,
-      "positionChange": 1.8298319327731107
+      "previousPosition": 12.242424242424242,
+      "positionChange": 1.7781385281385287
     },
     {
       "keyword": "landscape lighting contractor william b. umstead state park",
@@ -1369,8 +1378,8 @@
       "impressions": 10,
       "ctr": 0,
       "position": 18.1,
-      "previousPosition": 26.586206896551722,
-      "positionChange": 8.486206896551721
+      "previousPosition": 26.571428571428573,
+      "positionChange": 8.471428571428572
     },
     {
       "keyword": "landscape lighting design and installation in wake forest nc",
@@ -1393,38 +1402,38 @@
     {
       "keyword": "landscape lighting installation in garner, nc",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 11,
       "ctr": 0,
-      "position": 39,
-      "previousPosition": null,
-      "positionChange": null
+      "position": 39.18181818181818,
+      "previousPosition": 35,
+      "positionChange": -4.18181818181818
     },
     {
       "keyword": "landscape lighting installation near me",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 27.7,
-      "previousPosition": null,
-      "positionChange": null
+      "position": 27.666666666666668,
+      "previousPosition": 28,
+      "positionChange": 0.33333333333333215
     },
     {
       "keyword": "landscape lighting installation raleigh",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 20,
       "ctr": 0,
-      "position": 27.57894736842105,
-      "previousPosition": 46.63157894736842,
-      "positionChange": 19.052631578947366
+      "position": 27.05,
+      "previousPosition": 46.55555555555556,
+      "positionChange": 19.505555555555556
     },
     {
       "keyword": "landscape lighting installation raleigh nc",
       "clicks": 0,
       "impressions": 52,
       "ctr": 0,
-      "position": 33.67307692307692,
-      "previousPosition": 42.136986301369866,
-      "positionChange": 8.463909378292946
+      "position": 33.55769230769231,
+      "previousPosition": 41.94805194805195,
+      "positionChange": 8.390359640359641
     },
     {
       "keyword": "landscape lighting installations clayton community park",
@@ -1432,71 +1441,80 @@
       "impressions": 8,
       "ctr": 0,
       "position": 41,
-      "previousPosition": 31.4,
-      "positionChange": -9.600000000000001
+      "previousPosition": 31,
+      "positionChange": -10
+    },
+    {
+      "keyword": "landscape lighting installations downtown cary park",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62,
+      "previousPosition": null,
+      "positionChange": null
     },
     {
       "keyword": "landscape lighting installations downtown raleigh",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 43.5,
-      "previousPosition": 52.714285714285715,
-      "positionChange": 9.214285714285715
+      "position": 42.8235294117647,
+      "previousPosition": 56.36842105263158,
+      "positionChange": 13.54489164086688
     },
     {
       "keyword": "landscape lighting installations in raleigh, nc",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 19,
       "ctr": 0,
-      "position": 40.625,
-      "previousPosition": 47.4,
-      "positionChange": 6.774999999999999
+      "position": 41.1578947368421,
+      "previousPosition": 47.08695652173913,
+      "positionChange": 5.92906178489703
     },
     {
       "keyword": "landscape lighting installations jc raulston arboretum",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 14,
       "ctr": 0,
-      "position": 44.083333333333336,
-      "previousPosition": 43.5,
-      "positionChange": -0.5833333333333357
+      "position": 44,
+      "previousPosition": 39.142857142857146,
+      "positionChange": -4.857142857142854
     },
     {
       "keyword": "landscape lighting installations marbles kids museum",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 15,
       "ctr": 0,
-      "position": 31.357142857142858,
-      "previousPosition": 30.074074074074073,
-      "positionChange": -1.283068783068785
+      "position": 31.266666666666666,
+      "previousPosition": 30,
+      "positionChange": -1.2666666666666657
     },
     {
       "keyword": "landscape lighting installations mordecai historic park",
       "clicks": 0,
       "impressions": 20,
       "ctr": 0,
-      "position": 33.4,
-      "previousPosition": 39.16,
-      "positionChange": 5.759999999999998
+      "position": 33.7,
+      "previousPosition": 40.04,
+      "positionChange": 6.339999999999996
     },
     {
       "keyword": "landscape lighting installations north carolina museum of natural sciences",
       "clicks": 0,
-      "impressions": 11,
+      "impressions": 13,
       "ctr": 0,
-      "position": 26,
-      "previousPosition": 38.333333333333336,
-      "positionChange": 12.333333333333336
+      "position": 28.23076923076923,
+      "previousPosition": 39,
+      "positionChange": 10.76923076923077
     },
     {
       "keyword": "landscape lighting installations pope house museum",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 15,
       "ctr": 0,
-      "position": 32.625,
-      "previousPosition": 34.03703703703704,
-      "positionChange": 1.412037037037038
+      "position": 32.2,
+      "previousPosition": 34.333333333333336,
+      "positionChange": 2.133333333333333
     },
     {
       "keyword": "landscape lighting installations pullen park",
@@ -1504,26 +1522,26 @@
       "impressions": 14,
       "ctr": 0,
       "position": 34.142857142857146,
-      "previousPosition": 38.407407407407405,
-      "positionChange": 4.264550264550259
+      "previousPosition": 40.16,
+      "positionChange": 6.017142857142851
     },
     {
       "keyword": "landscape lighting installations stillwaters farm",
       "clicks": 0,
       "impressions": 21,
       "ctr": 0,
-      "position": 19.523809523809526,
-      "previousPosition": 24.344827586206897,
-      "positionChange": 4.821018062397371
+      "position": 19.571428571428573,
+      "previousPosition": 24.482758620689655,
+      "positionChange": 4.911330049261082
     },
     {
       "keyword": "landscape lighting installations whole brain escape",
       "clicks": 0,
-      "impressions": 12,
+      "impressions": 13,
       "ctr": 0,
-      "position": 17.25,
-      "previousPosition": 15.793103448275861,
-      "positionChange": -1.4568965517241388
+      "position": 17.153846153846153,
+      "previousPosition": 15.857142857142858,
+      "positionChange": -1.2967032967032956
     },
     {
       "keyword": "landscape lighting installations william b. umstead state park",
@@ -1531,8 +1549,8 @@
       "impressions": 11,
       "ctr": 0,
       "position": 43.63636363636363,
-      "previousPosition": 51.88,
-      "positionChange": 8.24363636363637
+      "previousPosition": 51.875,
+      "positionChange": 8.238636363636367
     },
     {
       "keyword": "landscape lighting near me",
@@ -1548,18 +1566,18 @@
       "clicks": 0,
       "impressions": 59,
       "ctr": 0,
-      "position": 25.084745762711865,
-      "previousPosition": 26.597014925373134,
-      "positionChange": 1.5122691626612692
+      "position": 23.45762711864407,
+      "previousPosition": 27.558823529411764,
+      "positionChange": 4.101196410767695
     },
     {
       "keyword": "landscape lighting raleigh nc",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 18,
       "ctr": 0,
-      "position": 25.05263157894737,
+      "position": 25.166666666666668,
       "previousPosition": 27.333333333333332,
-      "positionChange": 2.2807017543859622
+      "positionChange": 2.1666666666666643
     },
     {
       "keyword": "landscape lighting raleigh, nc",
@@ -1567,8 +1585,8 @@
       "impressions": 10,
       "ctr": 0,
       "position": 28.2,
-      "previousPosition": 31,
-      "positionChange": 2.8000000000000007
+      "previousPosition": 30.77777777777778,
+      "positionChange": 2.5777777777777793
     },
     {
       "keyword": "landscape lighting service raleigh, nc",
@@ -1576,8 +1594,8 @@
       "impressions": 9,
       "ctr": 0,
       "position": 33,
-      "previousPosition": 40.1,
-      "positionChange": 7.100000000000001
+      "previousPosition": 39.888888888888886,
+      "positionChange": 6.888888888888886
     },
     {
       "keyword": "landscape lighting solutions in raleigh nc",
@@ -1591,83 +1609,83 @@
     {
       "keyword": "landscape lighting solutions in raleigh, nc",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 41.93333333333333,
+      "position": 41.9375,
       "previousPosition": 45.5,
-      "positionChange": 3.56666666666667
+      "positionChange": 3.5625
     },
     {
       "keyword": "landscape lighting system contractor downtown raleigh",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 15,
       "ctr": 0,
-      "position": 31.285714285714285,
-      "previousPosition": 57.30434782608695,
-      "positionChange": 26.01863354037267
+      "position": 31.066666666666666,
+      "previousPosition": 58.95454545454545,
+      "positionChange": 27.887878787878787
     },
     {
       "keyword": "landscape lighting system contractor jc raulston arboretum",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 39.625,
-      "previousPosition": 45.65384615384615,
-      "positionChange": 6.028846153846153
+      "position": 39,
+      "previousPosition": 45.44,
+      "positionChange": 6.439999999999998
     },
     {
       "keyword": "landscape lighting system contractor marbles kids museum",
       "clicks": 0,
       "impressions": 19,
       "ctr": 0,
-      "position": 39,
-      "previousPosition": 54.291666666666664,
-      "positionChange": 15.291666666666664
+      "position": 38.36842105263158,
+      "previousPosition": 54.041666666666664,
+      "positionChange": 15.673245614035082
     },
     {
       "keyword": "landscape lighting system contractor mordecai historic park",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 20,
       "ctr": 0,
-      "position": 21.105263157894736,
-      "previousPosition": 26.147058823529413,
-      "positionChange": 5.041795665634677
+      "position": 21.1,
+      "previousPosition": 26.46875,
+      "positionChange": 5.368749999999999
     },
     {
       "keyword": "landscape lighting system contractor north carolina museum of natural sciences",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 25.8125,
-      "previousPosition": 37.13793103448276,
-      "positionChange": 11.325431034482762
+      "position": 25.11764705882353,
+      "previousPosition": 37,
+      "positionChange": 11.882352941176471
     },
     {
       "keyword": "landscape lighting system contractor pope house museum",
       "clicks": 0,
       "impressions": 21,
       "ctr": 0,
-      "position": 21,
-      "previousPosition": 20.424242424242426,
-      "positionChange": -0.5757575757575744
+      "position": 21.095238095238095,
+      "previousPosition": 19.766666666666666,
+      "positionChange": -1.3285714285714292
     },
     {
       "keyword": "landscape lighting system contractor pullen park",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 26.4,
-      "previousPosition": 25.75,
-      "positionChange": -0.6499999999999986
+      "position": 26.555555555555557,
+      "previousPosition": 25.705882352941178,
+      "positionChange": -0.8496732026143796
     },
     {
       "keyword": "landscape lighting system contractor stillwaters farm",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 12,
-      "previousPosition": 12.6,
-      "positionChange": 0.5999999999999996
+      "position": 1,
+      "previousPosition": 14.333333333333334,
+      "positionChange": 13.333333333333334
     },
     {
       "keyword": "landscape lighting system contractor whole brain escape",
@@ -1681,11 +1699,11 @@
     {
       "keyword": "landscape lighting system contractor william b. umstead state park",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 19.941176470588236,
-      "previousPosition": 39.666666666666664,
-      "positionChange": 19.72549019607843
+      "position": 20.055555555555557,
+      "previousPosition": 40,
+      "positionChange": 19.944444444444443
     },
     {
       "keyword": "landscape lights raleigh",
@@ -1708,20 +1726,20 @@
     {
       "keyword": "landscape process for homes",
       "clicks": 0,
-      "impressions": 29,
+      "impressions": 30,
       "ctr": 0,
-      "position": 16.20689655172414,
-      "previousPosition": 13.444444444444445,
-      "positionChange": -2.762452107279694
+      "position": 16.266666666666666,
+      "previousPosition": 13.5,
+      "positionChange": -2.7666666666666657
     },
     {
       "keyword": "landscape raleigh",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 4,
       "ctr": 0,
-      "position": 6.833333333333333,
-      "previousPosition": 12.333333333333334,
-      "positionChange": 5.500000000000001
+      "position": 8.75,
+      "previousPosition": 8.6,
+      "positionChange": -0.15000000000000036
     },
     {
       "keyword": "landscape raleigh nc",
@@ -1758,15 +1776,6 @@
       "position": 21,
       "previousPosition": 24.5,
       "positionChange": 3.5
-    },
-    {
-      "keyword": "landscaper",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1,
-      "previousPosition": null,
-      "positionChange": null
     },
     {
       "keyword": "landscaper raleigh",
@@ -1816,20 +1825,20 @@
     {
       "keyword": "landscapes",
       "clicks": 0,
-      "impressions": 62,
+      "impressions": 63,
       "ctr": 0,
-      "position": 7.806451612903226,
-      "previousPosition": 6.454545454545454,
-      "positionChange": -1.3519061583577718
+      "position": 7.841269841269841,
+      "previousPosition": 6,
+      "positionChange": -1.841269841269841
     },
     {
       "keyword": "landscapes raleigh nc",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 23,
       "ctr": 0,
-      "position": 11.85,
+      "position": 11.521739130434783,
       "previousPosition": 11,
-      "positionChange": -0.8499999999999996
+      "positionChange": -0.5217391304347831
     },
     {
       "keyword": "landscaping architecture raleigh nc",
@@ -1846,35 +1855,26 @@
       "impressions": 2,
       "ctr": 0,
       "position": 36.5,
-      "previousPosition": 41.666666666666664,
-      "positionChange": 5.166666666666664
-    },
-    {
-      "keyword": "landscaping arts",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 1,
-      "previousPosition": null,
-      "positionChange": null
+      "previousPosition": 40.5,
+      "positionChange": 4
     },
     {
       "keyword": "landscaping design raleigh",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 23.5625,
+      "position": 23.470588235294116,
       "previousPosition": 28.333333333333332,
-      "positionChange": 4.770833333333332
+      "positionChange": 4.862745098039216
     },
     {
       "keyword": "landscaping design raleigh nc",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 18,
       "ctr": 0,
-      "position": 29.4375,
-      "previousPosition": 37.4,
-      "positionChange": 7.962499999999999
+      "position": 29.666666666666668,
+      "previousPosition": 38.25,
+      "positionChange": 8.583333333333332
     },
     {
       "keyword": "landscaping hardscaping",
@@ -1906,11 +1906,11 @@
     {
       "keyword": "landscaping raleigh nc",
       "clicks": 0,
-      "impressions": 212,
+      "impressions": 211,
       "ctr": 0,
-      "position": 63.20754716981132,
-      "previousPosition": 72.9,
-      "positionChange": 9.692452830188685
+      "position": 63.41232227488152,
+      "previousPosition": 72.40112994350282,
+      "positionChange": 8.988807668621305
     },
     {
       "keyword": "landscaping sod installation",
@@ -2014,11 +2014,11 @@
     {
       "keyword": "luxury hardscape raleigh nc",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 47.3125,
-      "previousPosition": 43.4,
-      "positionChange": -3.9125000000000014
+      "position": 46.76470588235294,
+      "previousPosition": 43.21052631578947,
+      "positionChange": -3.5541795665634695
     },
     {
       "keyword": "luxury landscape raleigh nc",
@@ -2194,11 +2194,11 @@
     {
       "keyword": "nc zone 8a",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 5,
       "ctr": 0,
-      "position": 6.833333333333333,
-      "previousPosition": 5.25,
-      "positionChange": -1.583333333333333
+      "position": 7.2,
+      "previousPosition": 5.2,
+      "positionChange": -2
     },
     {
       "keyword": "new south landscaping raleigh nc",
@@ -2230,9 +2230,9 @@
     {
       "keyword": "north raleigh landscape design",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 17.076923076923077,
+      "position": 16.92857142857143,
       "previousPosition": null,
       "positionChange": null
     },
@@ -2259,27 +2259,27 @@
       "clicks": 0,
       "impressions": 16,
       "ctr": 0,
-      "position": 48.375,
-      "previousPosition": 65.9090909090909,
-      "positionChange": 17.534090909090907
+      "position": 47.75,
+      "previousPosition": 64.36363636363637,
+      "positionChange": 16.613636363636374
     },
     {
       "keyword": "outdoor lights contractors mordecai historic park",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 43.94117647058823,
-      "previousPosition": 51.1,
-      "positionChange": 7.1588235294117695
+      "position": 44.111111111111114,
+      "previousPosition": 50.89473684210526,
+      "positionChange": 6.783625730994146
     },
     {
       "keyword": "outdoor lights contractors whole brain escape",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 19,
       "ctr": 0,
-      "position": 31.944444444444443,
-      "previousPosition": 29.357142857142858,
-      "positionChange": -2.587301587301585
+      "position": 32.21052631578947,
+      "previousPosition": 29.307692307692307,
+      "positionChange": -2.902834008097166
     },
     {
       "keyword": "outside landscape",
@@ -2305,8 +2305,8 @@
       "impressions": 2,
       "ctr": 0,
       "position": 83,
-      "previousPosition": 68.52941176470588,
-      "positionChange": -14.470588235294116
+      "previousPosition": 73.66666666666667,
+      "positionChange": -9.333333333333329
     },
     {
       "keyword": "paver patio contractor mordecai historic park",
@@ -2314,17 +2314,8 @@
       "impressions": 7,
       "ctr": 0,
       "position": 66.57142857142857,
-      "previousPosition": 65.125,
-      "positionChange": -1.4464285714285694
-    },
-    {
-      "keyword": "paver patio contractor pope house museum",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 46,
-      "previousPosition": 50.51851851851852,
-      "positionChange": 4.518518518518519
+      "previousPosition": 66.64285714285714,
+      "positionChange": 0.0714285714285694
     },
     {
       "keyword": "plant hardiness zone 8a",
@@ -2401,9 +2392,9 @@
     {
       "keyword": "raleigh grass sod",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 53.88235294117647,
+      "position": 53.94444444444444,
       "previousPosition": null,
       "positionChange": null
     },
@@ -2419,47 +2410,47 @@
     {
       "keyword": "raleigh hardiness zone",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 9.8,
-      "previousPosition": 7.285714285714286,
-      "positionChange": -2.514285714285715
+      "position": 7.25,
+      "previousPosition": 8.875,
+      "positionChange": 1.625
     },
     {
       "keyword": "raleigh hardscapes",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 35.2,
-      "previousPosition": 27,
-      "positionChange": -8.200000000000003
+      "position": 35.166666666666664,
+      "previousPosition": 30.2,
+      "positionChange": -4.966666666666665
     },
     {
       "keyword": "raleigh hardscaping",
       "clicks": 0,
-      "impressions": 48,
+      "impressions": 49,
       "ctr": 0,
-      "position": 24.354166666666668,
-      "previousPosition": 26.369565217391305,
-      "positionChange": 2.015398550724637
+      "position": 24.26530612244898,
+      "previousPosition": 26.288888888888888,
+      "positionChange": 2.023582766439908
     },
     {
       "keyword": "raleigh landscape",
       "clicks": 0,
-      "impressions": 34,
+      "impressions": 36,
       "ctr": 0,
-      "position": 14.147058823529411,
-      "previousPosition": 11.76923076923077,
-      "positionChange": -2.377828054298641
+      "position": 14.083333333333334,
+      "previousPosition": 11.6,
+      "positionChange": -2.4833333333333343
     },
     {
       "keyword": "raleigh landscape architect",
       "clicks": 0,
-      "impressions": 18,
+      "impressions": 20,
       "ctr": 0,
-      "position": 46.55555555555556,
+      "position": 46.25,
       "previousPosition": 46.333333333333336,
-      "positionChange": -0.22222222222222143
+      "positionChange": 0.0833333333333357
     },
     {
       "keyword": "raleigh landscape architects",
@@ -2473,38 +2464,38 @@
     {
       "keyword": "raleigh landscape architecture",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 38.5,
+      "position": 37,
       "previousPosition": 50,
-      "positionChange": 11.5
+      "positionChange": 13
     },
     {
       "keyword": "raleigh landscape design",
       "clicks": 0,
-      "impressions": 42,
+      "impressions": 43,
       "ctr": 0,
-      "position": 25.30952380952381,
+      "position": 25.302325581395348,
       "previousPosition": 29.1,
-      "positionChange": 3.790476190476191
+      "positionChange": 3.797674418604654
     },
     {
       "keyword": "raleigh landscape designer",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 20,
       "ctr": 0,
-      "position": 28.105263157894736,
-      "previousPosition": 34.666666666666664,
-      "positionChange": 6.561403508771928
+      "position": 28,
+      "previousPosition": 34.65,
+      "positionChange": 6.649999999999999
     },
     {
       "keyword": "raleigh landscape lighting",
       "clicks": 0,
-      "impressions": 36,
+      "impressions": 37,
       "ctr": 0,
-      "position": 21.583333333333332,
-      "previousPosition": 28.704918032786885,
-      "positionChange": 7.121584699453553
+      "position": 21.135135135135137,
+      "previousPosition": 28.557377049180328,
+      "positionChange": 7.422241914045191
     },
     {
       "keyword": "raleigh landscape lighting companies",
@@ -2518,20 +2509,20 @@
     {
       "keyword": "raleigh landscape lighting contractor",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 28,
       "ctr": 0,
-      "position": 34.30769230769231,
-      "previousPosition": 36.625,
-      "positionChange": 2.3173076923076934
+      "position": 34.25,
+      "previousPosition": 36.5,
+      "positionChange": 2.25
     },
     {
       "keyword": "raleigh landscape lighting installation",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 17,
       "ctr": 0,
-      "position": 39,
-      "previousPosition": 47.63636363636363,
-      "positionChange": 8.636363636363633
+      "position": 38.88235294117647,
+      "previousPosition": 47.61904761904762,
+      "positionChange": 8.73669467787115
     },
     {
       "keyword": "raleigh landscape lighting service",
@@ -2556,16 +2547,16 @@
       "clicks": 0,
       "impressions": 19,
       "ctr": 0,
-      "position": 51.89473684210526,
-      "previousPosition": 62.73684210526316,
-      "positionChange": 10.842105263157897
+      "position": 53.578947368421055,
+      "previousPosition": 60.4,
+      "positionChange": 6.821052631578944
     },
     {
       "keyword": "raleigh landscaping design",
       "clicks": 0,
-      "impressions": 19,
+      "impressions": 20,
       "ctr": 0,
-      "position": 20.36842105263158,
+      "position": 20.45,
       "previousPosition": null,
       "positionChange": null
     },
@@ -2599,11 +2590,11 @@
     {
       "keyword": "raleigh nc growing zone",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 9,
       "ctr": 0,
-      "position": 9.3,
-      "previousPosition": 7.5,
-      "positionChange": -1.8000000000000007
+      "position": 9.222222222222221,
+      "previousPosition": 7.7272727272727275,
+      "positionChange": -1.494949494949494
     },
     {
       "keyword": "raleigh nc hardiness zone",
@@ -2626,27 +2617,27 @@
     {
       "keyword": "raleigh nc landscape architect",
       "clicks": 0,
-      "impressions": 17,
+      "impressions": 18,
       "ctr": 0,
-      "position": 45.76470588235294,
+      "position": 45.77777777777778,
       "previousPosition": null,
       "positionChange": null
     },
     {
       "keyword": "raleigh nc landscape architects",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 45.5625,
+      "position": 45.588235294117645,
       "previousPosition": null,
       "positionChange": null
     },
     {
       "keyword": "raleigh nc landscape design",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 22,
       "ctr": 0,
-      "position": 23.19047619047619,
+      "position": 23.09090909090909,
       "previousPosition": null,
       "positionChange": null
     },
@@ -2680,11 +2671,11 @@
     {
       "keyword": "raleigh nc sod",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 45.92307692307692,
-      "previousPosition": 39.07142857142857,
-      "positionChange": -6.85164835164835
+      "position": 45.285714285714285,
+      "previousPosition": 37.23076923076923,
+      "positionChange": -8.054945054945051
     },
     {
       "keyword": "raleigh nc usda zone",
@@ -2707,11 +2698,11 @@
     {
       "keyword": "raleigh nc zone for planting",
       "clicks": 0,
-      "impressions": 7,
+      "impressions": 6,
       "ctr": 0,
-      "position": 4.714285714285714,
-      "previousPosition": 4.6,
-      "positionChange": -0.11428571428571477
+      "position": 4.5,
+      "previousPosition": 4.833333333333334,
+      "positionChange": 0.3333333333333339
     },
     {
       "keyword": "raleigh outdoor lighting",
@@ -2725,11 +2716,11 @@
     {
       "keyword": "raleigh plant zone",
       "clicks": 0,
-      "impressions": 4,
+      "impressions": 3,
       "ctr": 0,
-      "position": 8.75,
-      "previousPosition": 6,
-      "positionChange": -2.75
+      "position": 6.666666666666667,
+      "previousPosition": 7.8,
+      "positionChange": 1.1333333333333329
     },
     {
       "keyword": "raleigh planting zone",
@@ -2761,20 +2752,20 @@
     {
       "keyword": "raleigh sod",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 50.25,
-      "previousPosition": 40.94736842105263,
-      "positionChange": -9.30263157894737
+      "position": 50.470588235294116,
+      "previousPosition": 36.375,
+      "positionChange": -14.095588235294116
     },
     {
       "keyword": "raleigh sod installation",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 30.9375,
-      "previousPosition": 36.1578947368421,
-      "positionChange": 5.220394736842103
+      "position": 30.941176470588236,
+      "previousPosition": 36,
+      "positionChange": 5.0588235294117645
     },
     {
       "keyword": "raleigh sod prices",
@@ -2813,31 +2804,22 @@
       "positionChange": null
     },
     {
-      "keyword": "raleigh, north carolina",
-      "clicks": 0,
-      "impressions": 1,
-      "ctr": 0,
-      "position": 6,
-      "previousPosition": null,
-      "positionChange": null
-    },
-    {
       "keyword": "residential hardscaping",
       "clicks": 0,
       "impressions": 10,
       "ctr": 0,
       "position": 6.1,
-      "previousPosition": 12.241379310344827,
-      "positionChange": 6.141379310344828
+      "previousPosition": 12.071428571428571,
+      "positionChange": 5.9714285714285715
     },
     {
       "keyword": "residential landscape architect raleigh nc",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 14,
       "ctr": 0,
-      "position": 37.30769230769231,
+      "position": 37.357142857142854,
       "previousPosition": 37.53846153846154,
-      "positionChange": 0.2307692307692335
+      "positionChange": 0.181318681318686
     },
     {
       "keyword": "residential landscape design",
@@ -2851,11 +2833,11 @@
     {
       "keyword": "residential landscape design raleigh nc",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 24,
       "ctr": 0,
-      "position": 19.391304347826086,
-      "previousPosition": 26.032258064516128,
-      "positionChange": 6.640953716690042
+      "position": 19.375,
+      "previousPosition": 25.79310344827586,
+      "positionChange": 6.418103448275861
     },
     {
       "keyword": "residential sod installation",
@@ -2923,38 +2905,38 @@
     {
       "keyword": "sod companies raleigh nc",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 15,
       "ctr": 0,
-      "position": 42.857142857142854,
-      "previousPosition": 43.0625,
-      "positionChange": 0.2053571428571459
+      "position": 42.8,
+      "previousPosition": 42.2,
+      "positionChange": -0.5999999999999943
     },
     {
       "keyword": "sod company raleigh nc",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 49.6,
+      "position": 49.4375,
       "previousPosition": 47.07692307692308,
-      "positionChange": -2.523076923076921
+      "positionChange": -2.36057692307692
     },
     {
       "keyword": "sod in raleigh nc",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 48.8,
-      "previousPosition": 53.72222222222222,
-      "positionChange": 4.922222222222224
+      "position": 48.8125,
+      "previousPosition": 53.470588235294116,
+      "positionChange": 4.658088235294116
     },
     {
       "keyword": "sod installation",
       "clicks": 0,
-      "impressions": 71,
+      "impressions": 73,
       "ctr": 0,
-      "position": 23.450704225352112,
-      "previousPosition": 17.796296296296298,
-      "positionChange": -5.6544079290558145
+      "position": 23.36986301369863,
+      "previousPosition": 18,
+      "positionChange": -5.36986301369863
     },
     {
       "keyword": "sod installation near me",
@@ -2962,26 +2944,26 @@
       "impressions": 34,
       "ctr": 0,
       "position": 13.794117647058824,
-      "previousPosition": 14.72,
-      "positionChange": 0.9258823529411764
+      "previousPosition": 14.565217391304348,
+      "positionChange": 0.7710997442455234
     },
     {
       "keyword": "sod installation raleigh",
       "clicks": 0,
-      "impressions": 44,
+      "impressions": 45,
       "ctr": 0,
-      "position": 29.022727272727273,
-      "previousPosition": 29.35,
-      "positionChange": 0.32727272727272805
+      "position": 29.022222222222222,
+      "previousPosition": 29.17948717948718,
+      "positionChange": 0.1572649572649567
     },
     {
       "keyword": "sod installation raleigh nc",
       "clicks": 0,
-      "impressions": 16,
+      "impressions": 17,
       "ctr": 0,
-      "position": 30.5,
-      "previousPosition": 32.03448275862069,
-      "positionChange": 1.5344827586206904
+      "position": 30.41176470588235,
+      "previousPosition": 31.857142857142858,
+      "positionChange": 1.4453781512605062
     },
     {
       "keyword": "sod installation raleigh, nc",
@@ -2989,8 +2971,8 @@
       "impressions": 7,
       "ctr": 0,
       "position": 27.571428571428573,
-      "previousPosition": 32.4,
-      "positionChange": 4.828571428571426
+      "previousPosition": 30,
+      "positionChange": 2.428571428571427
     },
     {
       "keyword": "sod installation services near me",
@@ -3013,11 +2995,11 @@
     {
       "keyword": "sod installer raleigh",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 21,
       "ctr": 0,
-      "position": 30.75,
-      "previousPosition": 31.75,
-      "positionChange": 1
+      "position": 30.80952380952381,
+      "previousPosition": 31.533333333333335,
+      "positionChange": 0.7238095238095248
     },
     {
       "keyword": "sod prices raleigh nc",
@@ -3025,17 +3007,17 @@
       "impressions": 23,
       "ctr": 0,
       "position": 7.956521739130435,
-      "previousPosition": 9.058823529411764,
-      "positionChange": 1.10230179028133
+      "previousPosition": 9,
+      "positionChange": 1.0434782608695654
     },
     {
       "keyword": "sod raleigh north carolina",
       "clicks": 0,
-      "impressions": 15,
+      "impressions": 16,
       "ctr": 0,
-      "position": 59.46666666666667,
+      "position": 59.5,
       "previousPosition": 48.333333333333336,
-      "positionChange": -11.133333333333333
+      "positionChange": -11.166666666666664
     },
     {
       "keyword": "southern scapes raleigh",
@@ -3130,11 +3112,11 @@
     {
       "keyword": "what climate zone is raleigh nc",
       "clicks": 0,
-      "impressions": 6,
+      "impressions": 4,
       "ctr": 0,
-      "position": 1.3333333333333333,
+      "position": 1.5,
       "previousPosition": 1,
-      "positionChange": -0.33333333333333326
+      "positionChange": -0.5
     },
     {
       "keyword": "what does 8a mean",
@@ -3175,20 +3157,20 @@
     {
       "keyword": "what growing zone is raleigh nc",
       "clicks": 0,
-      "impressions": 22,
+      "impressions": 20,
       "ctr": 0,
-      "position": 6.590909090909091,
-      "previousPosition": 7.769230769230769,
-      "positionChange": 1.1783216783216783
+      "position": 6.35,
+      "previousPosition": 7.857142857142857,
+      "positionChange": 1.5071428571428571
     },
     {
       "keyword": "what hardiness zone is raleigh nc",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 4,
       "ctr": 0,
-      "position": 8.6,
-      "previousPosition": 9.8,
-      "positionChange": 1.200000000000001
+      "position": 6.25,
+      "previousPosition": 11.166666666666666,
+      "positionChange": 4.916666666666666
     },
     {
       "keyword": "what is my planting zone",
@@ -3211,20 +3193,20 @@
     {
       "keyword": "what plant zone is raleigh nc",
       "clicks": 0,
-      "impressions": 27,
+      "impressions": 25,
       "ctr": 0,
-      "position": 4.62962962962963,
-      "previousPosition": 5.4,
-      "positionChange": 0.7703703703703706
+      "position": 4.48,
+      "previousPosition": 5.583333333333333,
+      "positionChange": 1.1033333333333326
     },
     {
       "keyword": "what planting zone is raleigh nc",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 37,
       "ctr": 0,
-      "position": 4.947368421052632,
-      "previousPosition": 5.3076923076923075,
-      "positionChange": 0.36032388663967563
+      "position": 4.972972972972973,
+      "previousPosition": 5.275,
+      "positionChange": 0.30202702702702755
     },
     {
       "keyword": "what planting zone is raleigh north carolina",
@@ -3238,18 +3220,18 @@
     {
       "keyword": "what should a sod installer do to prepare my yard before laying new sod in north carolina clay soil? raleigh",
       "clicks": 0,
-      "impressions": 21,
+      "impressions": 23,
       "ctr": 0,
-      "position": 2.238095238095238,
+      "position": 2.2608695652173916,
       "previousPosition": 3.3333333333333335,
-      "positionChange": 1.0952380952380953
+      "positionChange": 1.072463768115942
     },
     {
       "keyword": "what should i expect to pay to replace my lawn with sod in wake county nc? raleigh",
       "clicks": 0,
-      "impressions": 38,
+      "impressions": 40,
       "ctr": 0,
-      "position": 5.184210526315789,
+      "position": 4.975,
       "previousPosition": null,
       "positionChange": null
     },
@@ -3283,20 +3265,20 @@
     {
       "keyword": "what zone is raleigh nc",
       "clicks": 0,
-      "impressions": 37,
+      "impressions": 35,
       "ctr": 0,
-      "position": 5.216216216216216,
-      "previousPosition": 4.833333333333334,
-      "positionChange": -0.38288288288288186
+      "position": 5.228571428571429,
+      "previousPosition": 4.84375,
+      "positionChange": -0.38482142857142865
     },
     {
       "keyword": "what zone is raleigh nc for planting",
       "clicks": 0,
-      "impressions": 45,
+      "impressions": 44,
       "ctr": 0,
-      "position": 5.311111111111111,
-      "previousPosition": 7.170731707317073,
-      "positionChange": 1.8596205962059624
+      "position": 5.25,
+      "previousPosition": 7.190476190476191,
+      "positionChange": 1.9404761904761907
     },
     {
       "keyword": "what zone is raleigh north carolina",
@@ -3319,9 +3301,9 @@
     {
       "keyword": "who should i call to replace my lawn with new sod in raleigh nc? raleigh",
       "clicks": 0,
-      "impressions": 5,
+      "impressions": 6,
       "ctr": 0,
-      "position": 2.6,
+      "position": 2.333333333333333,
       "previousPosition": null,
       "positionChange": null
     },
@@ -3346,11 +3328,11 @@
     {
       "keyword": "yard drainage raleigh",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 1,
       "ctr": 0,
-      "position": 4,
-      "previousPosition": null,
-      "positionChange": null
+      "position": 1,
+      "previousPosition": 7,
+      "positionChange": 6
     },
     {
       "keyword": "yard drainage raleigh nc",
